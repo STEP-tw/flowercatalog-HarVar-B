@@ -1,0 +1,15 @@
+h1{
+  color: orange;
+  text-align : center;
+  border-style: none none groove none;
+}
+div.links{
+  display:inline;
+}
+div.image{
+  position:relative;
+}
+div.other{
+  display:inline;
+  position: relative;
+}
